@@ -37,3 +37,10 @@ Name of the instance, Choose AMI, Instance Type, Create or select Key Pair, Conf
 * MobaXterm installed.
 
 Now our Virtual machine is ready to explore further labs, practice...
+
+## Connect with Me @
+
+[![Connect with LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasmeetsm)
+[![Connect with Hashnode](https://img.shields.io/badge/Hashnode-Follow-blueviolet?style=for-the-badge&logo=hashnode)](https://devops2025.hashnode.dev)
+[![Connect with Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@jasmeetsm04)
+
