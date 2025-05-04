@@ -43,3 +43,6 @@ Drivers (devs) and pit crew (ops) work in sync for flawless laps = production su
 DevOps builds on Agile with automation, CI/CD, and Ops integration for daily (even hourly!) deployments.
 
 🧱 Tools evolve, but culture leads.
+
+🔗 Connect With Me
+<p align="left"> <a href="https://devops2025.hashnode.dev" target="_blank"> <img src="https://img.shields.io/badge/Hashnode-Connect-blue?style=for-the-badge&logo=hashnode" alt="Connect with Hashnode"/> </a> <a href="https://www.linkedin.com/in/jasmeetsm" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect with LinkedIn"/> </a> <a href="https://medium.com/@jasmeetsm04" target="_blank"> <img src="https://img.shields.io/badge/Medium-Connect-black?style=for-the-badge&logo=medium" alt="Connect with Medium"/> </a> </p>
