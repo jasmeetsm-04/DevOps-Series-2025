@@ -1,42 +1,33 @@
-#  🔄 Week 2 | Day 3: DevOps Infinity Loop & Getting Cloud-Ready
+#  🚀 DevOps Deep Dive – Week 2, Day 3
+Mastering Linux Basics That Power Your DevOps Journey
 
-Let’s talk about the DevOps Lifecycle—visualized as the iconic ∞ infinity loop.
-Each phase flows into the next to enable continuous delivery and improvement:
+Whether you're provisioning cloud infrastructure or scripting deployment workflows, Linux is your home base — and the command line is your power tool.
 
-🌀 DevOps Stages :
-Plan – Define goals & roadmap
-Code – Write features based on user needs
-Build – Merge & compile the code
-Test – Automate testing to ensure quality
-Release – Finalized builds are approved for deployment
-Deploy – Push code to live environments
-Operate – Maintain system health
-Monitor – Gather feedback, improve continuously
-👉 And then? Back to Plan—because DevOps never really stops.
+This session covers 21 essential Linux commands every DevOps engineer should know.
 
-🛠️ Ready to Get Hands-On?
-We’re now moving from theory to real cloud practice.
+🔍 Key Topics:
+User insights: id, /etc/passwd
 
-🎯 Today’s Goal: Launch Your First AWS EC2 Instance
+Directory navigation: cd, pwd, ls -la
 
-🧩 Steps to Set Up Your DevOps Lab on AWS:
+File handling: touch, mkdir, echo, cat
 
-Sign up or log in to your AWS account
+System monitoring: top, uptime, hostname, ip addr
 
-Launch an Instance with 
+Built-in help: man – your first line of defense
 
-Use these settings:
-Name of the instance, Choose AMI, Instance Type, Create or select Key Pair, Configure Network & Storage
+🧪 Mini-Challenge: Test Your Skills
+🔹 Find your UID range using id
 
-💻 Access Your EC2 via MobaXterm (Windows)
+🔹 Create a nested directory in one command
 
-📌 What you’ll need:
+🔹 Use curl ifconfig.io to display your public IP
 
-* EC2 Public IP Address
-* Your .pem key file
-* MobaXterm installed.
+🔹 Write to a file with echo, then read it with cat
 
-Now our Virtual machine is ready to explore further labs, practice...
+These aren't just commands — they’re core building blocks for automation, diagnostics, and scalable system design.
+
+#DevOps #Linux #CLI #SysAdmin #Automation #CloudEngineering #DevOpsJourney #Week2Day3
 
 ## Connect with Me @
 
