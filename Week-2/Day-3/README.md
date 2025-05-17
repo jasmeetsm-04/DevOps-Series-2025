@@ -1,6 +1,13 @@
 #  🚀 DevOps Deep Dive – Week 2, Day 3
 Mastering Linux Basics That Power Your DevOps Journey
 
+
+your-project/
+├── README.md
+└── images/
+    └── pic week-2 Day -3.png
+
+
 Whether you're provisioning cloud infrastructure or scripting deployment workflows, Linux is your home base — and the command line is your power tool.
 
 This session covers 21 essential Linux commands every DevOps engineer should know.
