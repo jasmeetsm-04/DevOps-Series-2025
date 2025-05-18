@@ -7,11 +7,17 @@ Hey DevOps Ninjas! 👨‍💻👩‍💻
 Day 4 of Week 2 in my #DevOps Daily Series is here — and we’re diving deep into the Linux commands every DevOps engineer should master. From monitoring systems to managing jobs and automating tasks, this toolkit is essential for your day-to-day.
 
 💡 Key Topics Covered:
+
 📌 User Management (useradd, passwd)
+
 📌 Process Monitoring (top, ps, pidof)
+
 📌 Job Control (jobs, bg, fg)
+
 📌 Process Termination (kill -9) — the Thanos Snap of the command line
+
 📌 CPU Scheduling (nice, renice)
+
 📌 File Operations (cp, mv, rm)
 
 🏆 ✨ Command Highlight of the Week: screen
