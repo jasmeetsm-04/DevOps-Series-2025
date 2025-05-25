@@ -11,6 +11,7 @@ Why run 10 commands when 1 script can run them all?
  Shell scripting isn’t just a DevOps skill — it’s a superpower.
 
 🧠 Pro Tips:
+
  🔸 Save: :wq! in vim
  🔸 Make it executable: chmod u+x myscript.sh
  🔸 Debug: sh -x myscript.sh
@@ -21,11 +22,13 @@ Ever seen this? ➤ drwxr-xr-x
 That’s your file’s security badge.
 
 📊 Breakdown:
+
 rwx (User) = 7
 r-x (Group) = 5
 r-x (Others) = 5
 
 ➡️ Total: 755
+
 Key Commands:
  🔧 chmod 770 myfolder – control permissions
  👥 chgrp techteam file.txt – change group 
@@ -37,6 +40,7 @@ Key Commands:
 Give specific users root-like powers (without full access). 💥
 
 🚀 Takeaways for DevOps Practitioners
+
 ✅ Automate with shell scripts
 ✅ Understand and manage permissions
 ✅ Use chmod, chgrp, chown wisely
