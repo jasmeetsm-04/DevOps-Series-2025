@@ -28,7 +28,7 @@ r-x (Others) = 5
 ➡️ Total: 755
 Key Commands:
  🔧 chmod 770 myfolder – control permissions
- 👥 chgrp techteam file.txt – change group
+ 👥 chgrp techteam file.txt – change group 
  👤 chown harman:India /enotes – change owner & group
 
 🧑‍💻 User & Group Management: Organize Like a Pro
