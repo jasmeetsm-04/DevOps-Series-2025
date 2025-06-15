@@ -1,5 +1,5 @@
 
-🚀 LAB Update: Running a Load Balancer on NGINX using Docker 🐳
+# 🚀 LAB Update: Running a Load Balancer on NGINX using Docker 🐳
 
 
 Just completed an exciting hands-on lab on setting up a load balancer using 
