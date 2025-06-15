@@ -2,7 +2,6 @@
 # 🚀 DevOps Weekly Series – Week 4, Day 8: Mastering Nginx as a Load Balancer and Reverse Proxy
 
 
-
 In today's DevOps lab, we explore the powerful capabilities of Nginx, focusing on its roles as a load balancer and reverse proxy.
 
 
