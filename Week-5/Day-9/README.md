@@ -1,5 +1,5 @@
 
-🚀 DevOps Weekly Series – Week 5, Day 9: 
+# 🚀 DevOps Weekly Series – Week 5, Day 9: 
 
 Mastering Reverse Proxy with Nginx and Tomcat...
 
@@ -90,3 +90,12 @@ By setting up Nginx as a reverse proxy for Tomcat, you've added a layer of abstr
 
 
 Stay tuned for the next installment in our DevOps series, where we'll delve deeper into optimizing and securing your deployments!
+
+#DevOps #DevOpsCommunity #NGINX #ReverseProxy #LoadBalance #LearnInPublic #LearningTogether #CommandLine #DevOpsSeries #DevOpsSeries2025 #DevOpsJourney #LinkedinLearning #TechSeries #WeeklyRecap #Cloud #Automation #Ansible #CICD #Jenkins #Linux #Docker #Kubernetes #k8s #Helm #Week5Day9
+
+## Connect with Me @
+
+[![Connect with LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasmeetsm)
+[![Connect with Hashnode](https://img.shields.io/badge/Hashnode-Follow-blueviolet?style=for-the-badge&logo=hashnode)](https://devops2025.hashnode.dev)
+[![Connect with Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@jasmeetsm04)
+
