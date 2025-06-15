@@ -1,4 +1,4 @@
-#  🚀 DevOps Deep Dive – Week 3, Day 6
+#   🚀 DevOps Deep Dive – Week 3, Day 6
 
  🛠️ Logs, Networking, Scheduling & Compression – Swiss Army Knife Tools of DevOps!
 
