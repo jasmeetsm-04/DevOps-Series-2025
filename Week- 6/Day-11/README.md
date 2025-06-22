@@ -1,5 +1,5 @@
 
-# 🔧 DevOps Series – Week 5 | Day 10
+# 🔧 DevOps Series – Week 6 | Day 11
 
 🎯 Topic: Git – The Backbone of Source Code Management
 
@@ -43,6 +43,16 @@ Git is the foundation of every modern CI/CD pipeline, enabling:
  📜 Traceability of changes
 
  🧪 Faster iterations and experimentation
+
+ 
+## Connect with Me @
+
+[![Connect with LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jasmeetsm)
+[![Connect with Hashnode](https://img.shields.io/badge/Hashnode-Follow-blueviolet?style=for-the-badge&logo=hashnode)](https://devops2025.hashnode.dev)
+[![Connect with Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@jasmeetsm04)
+
+
+
 
  📦 Safer deployments
  
