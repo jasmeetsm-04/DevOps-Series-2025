@@ -1,6 +1,5 @@
 
-# 
-🔧 DevOps Series – Week 5 | Day 10
+# 🔧 DevOps Series – Week 5 | Day 10
 
 
 
